@@ -6,10 +6,10 @@
     Currently working at Misterbit Technological Solutions as a full-stack developer and instructors team lead.
 </p>
 <p>
-    👥 I enjoy people and tecnologies, and eager to evolve from any challenge. 
+    👥 I enjoy people and technologies, and eager to evolve by tackling challenges. 
 </p>
 <p> 
-    🔥 Check out one of my projects, HomeFin, a monday clone with a littele twiste for manage monthly budgets
+    🔥 Check out one of my projects, HomeFin, a monday clone with a littele twiste for managing monthly budgets: ....
 </p>
 <p> 
     🧘‍♀️ Outside the world of tech, I practice yoga, love to craft and hang out at the beach
