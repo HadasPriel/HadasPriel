@@ -11,21 +11,18 @@ Currently working at Misterbit Technological Solutions as a full-stack developer
  **Skills**
 
 <p>
-<img src="./img/js.png"  >
-<img src="./img/css.png" style="display: inline-block; height: 100px" > <img src="./img/html.png" height="100" display="inline-block" >
-<img src="./img/sass.png" height="100" display="inline-block" >
-<img src="./img/react.png" height="100" display="inline-block" >
-<img src="./img/vue.png" height="100" display="inline-block" >
-<img src="./img/angular.png" height="100" display="inline-block" >
-<img src="./img/mysql.png" height="100" display="inline-block" >
-<img src="./img/mongodb.png" height="100" display="inline-block" >
-<img src="./img/nodejs.png" height="100" display="inline-block" >
-<img src="./img/git.png" height="100" display="inline-block" >
+<img src="./img/js.png" height="100" >
+<img src="./img/css.png" height="100" > 
+<img src="./img/html.png" height="100" >
+<img src="./img/sass.png" height="100" >
+<img src="./img/react.png" height="100" >
+<img src="./img/vue.png" height="100" >
+<img src="./img/angular.png" height="100" >
+<img src="./img/mysql.png" height="100" >
+<img src="./img/mongodb.png" height="100" >
+<img src="./img/nodejs.png" height="100" >
+<img src="./img/git.png" height="100" >
 </p>
-<!-- <style>
 
-    img{
-        height: 100;
-        display: inline-block;
-    }
-</style> -->
+
+
