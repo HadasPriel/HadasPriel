@@ -1,16 +1,19 @@
-### Hi there 👋
+**About Me**
 
-<!--
-**HadasPriel/HadasPriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✌️ I am Hadas Priel, a Full Stck developer.
+Currently working at Misterbit Technological Solutions as a full-stack developer and instructors team lead.
 
-Here are some ideas to get you started:
+👥 I enjoy people and tecnologies, and eager to evolve from any challenge.
+🔥 Check out one of my projects, HomeFin, a monday clone with a littele twiste, design for manage monthly budgets
+🧘‍♀️ Outside the world of tech, I practice yoga, love to craft and hanging on the beach
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ **Skills**
+
+<img src="./img/js.png" height="100" >
+<img src="./img/mongodb.png" height="100" >
+<img src="./img/nodejs.png" height="100" >
+<img src="./img/react.png" height="100" >
+<img src="./img/vue.png" height="100" >
+<img src="./img/angular.png" height="100" >
+<img src="./img/sql.png" height="100" >
