@@ -9,7 +9,7 @@
     👥 I enjoy people and technologies, and eager to evolve by tackling challenges. 
 </p>
 <p> 
-    🔥 Check out one of my projects, HomeFin, a monday clone with a littele twiste for managing monthly budgets: ....
+    🔥 Check out one of my projects, HomeFin, a monday clone with a littele twiste for managing monthly budgets: <a href="https://finday.onrender.com" >https://finday.onrender.com</a> 
 </p>
 <p> 
     🧘‍♀️ Outside the world of tech, I practice yoga, love to craft and hang out at the beach
